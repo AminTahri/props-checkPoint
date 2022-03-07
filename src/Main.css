@@ -1,0 +1,8 @@
+.offre{
+    /* margin-top: 50px; */
+    opacity: 0.5;
+    width: 150px;
+}
+.offre:hover{
+    opacity: 1;
+}
